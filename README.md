@@ -1,2 +1,2 @@
 # SPECIAL-CARE
-Esta aplicación es del cuidado a personas
+Esta aplicación es para el cuidado a personas
